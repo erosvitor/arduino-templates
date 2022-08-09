@@ -18,3 +18,6 @@ Exemplo de como fazer um LED difuso piscar.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/igMwrqPkFIm?sharecode=39DliqMstuypXGCGp7FLyQoGFaMQ7Da7O4bt-JYuYtU

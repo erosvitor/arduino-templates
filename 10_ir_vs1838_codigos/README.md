@@ -14,3 +14,6 @@ Exemplo de como utilizar um IR_VS1838 para identificar códigos de controles rem
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/bZrVSe0HLWC?sharecode=QLw9EoSOvxCJrlwlbd_i9LKtvSWUyzxXetpzYp8jgls

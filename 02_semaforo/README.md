@@ -12,3 +12,6 @@ Exemplo de como utilizar LEDs difusos para simular um semáforo.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/7QgYe0TIzS4?sharecode=b3lMx3He5iINxvRRDl7vpE1JlbbjwN3e7rPcc4DZWkw

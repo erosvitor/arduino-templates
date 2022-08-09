@@ -14,3 +14,6 @@ Exemplo de como utilizar um IR_VS1838 para ligar LEDs.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/adxo5RfkQWg?sharecode=IrUz0AoIyio0KQ-kltw5rPcrBxHok97JlBzcpwuJqVc

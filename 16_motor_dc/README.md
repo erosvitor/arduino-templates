@@ -16,3 +16,6 @@ Exemplo de como acionar um motor DC.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/7RNRkD5rONq?sharecode=YN2Z911YxMiWBntShmnq3i1aLacCAErNtdAedM_DMDM

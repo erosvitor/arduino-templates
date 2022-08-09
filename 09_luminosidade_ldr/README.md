@@ -15,3 +15,6 @@ Exemplo de como utilizar um LDR.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/0lkplyI1ZYF?sharecode=VqOqVSRN_6yvG0NpOfYP0BPHJQfKT9xTgumub368SOo

@@ -14,3 +14,6 @@ S
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/8uGXo7B3t0B?sharecode=L2sfOlaeBMwz45lkNS3FvIHZOLN53VjsOMHB3NFMVyw

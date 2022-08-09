@@ -12,3 +12,6 @@ Exemplo de como utilizar buzzer para reproduzir sons.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/hEa2rBI9WTr?sharecode=8qlpOcIkMbLChLRfqGs7MnonM174aPjlYaG-kqi4MlQ

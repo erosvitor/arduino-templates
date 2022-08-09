@@ -15,3 +15,6 @@ Exemplo de como usar o sensor de temperatura DHT11.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/0SnDegVluip?sharecode=UQBsIVTpM9n2LhBlFcpPirYdLhYsDLEJsET6J85I8Dw

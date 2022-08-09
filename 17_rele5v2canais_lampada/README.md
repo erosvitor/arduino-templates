@@ -1,7 +1,7 @@
 ## Sobre
 Exemplo de como ligar uma lâmpada usando módulo relé 5v 2 canais.
 
-### Motor DC
+### Relé
 ![](rele5v2canais.png)
 
 ### Materiais para o projeto

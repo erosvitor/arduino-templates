@@ -15,3 +15,6 @@ Exemplo de como utilizar display 7 segmentos 1 dígito.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/gwKXMv4eh6D?sharecode=e-0LKp7HpcxroVFqa1fZr4W146n_RtmE589YlXIRab4

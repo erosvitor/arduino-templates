@@ -11,3 +11,6 @@ Exemplo de como utilizar potenciômetro linear para controlar a intensidade do L
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/jnxJCBcwup0?sharecode=2chzYY7TCf7vGcqW4mXbEC27KuHKcTmNyYXvJNoEfEY

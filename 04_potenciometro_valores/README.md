@@ -12,3 +12,6 @@ Exemplo de como monitorar valores do potenciômetro linear.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/93eJMZvxsld?sharecode=8gMjcvgeFViiQNAut5Can0RI7sWlBTDrXK2f7rc6NeM

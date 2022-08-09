@@ -15,3 +15,6 @@ Exemplo de como utilizar push button para simular um interruptor de luz.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/iWHwA24Xt17?sharecode=yYb-RO-xePxYZDTHA7Y75KcW1_LIUaOKyINWglQ_zys

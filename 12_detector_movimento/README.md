@@ -11,3 +11,6 @@ Exemplo de como utilizar o sensor de presença PIR.
 
 ### Esquema do projeto
 ![](esquema.png)
+
+### Tinkercad
+https://www.tinkercad.com/things/hnCAH0wm7ft?sharecode=WlP6_Jg9-77qYHMjASuaM8w0BAp0iM3hhDftwRgi9Og
